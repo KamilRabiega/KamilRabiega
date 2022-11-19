@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello everyone, my name is Kamil Rabiega and I am a 4th year IT student at the University of Zielona Góra. 
+I am currently working on my thesis project which topic is "Web application for managing a manufacturing enterprise". To develop this application I am using technologies such as ASP.NET Core, Entity Framework Core, C#, MS SQL, Razor Pages, MVC, GIT. I am learning that for myself also to get a job in the future as C#/.Net/SQL developer. 
+
+
+
 
 <!--
 **KamilRabiega/KamilRabiega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
